@@ -1,2 +1,1 @@
-# simple_shell
-a simple shell project using c 
+# [C - SIMPLE SHELL](https://alx-intranet.hbtn.io/projects/235)
