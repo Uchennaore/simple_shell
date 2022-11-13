@@ -57,3 +57,5 @@ You don’t have to:
 
 *`execve` will be the core part of your Shell, don’t forget to pass the environ to it…*
 ## Task 2
+Simple shell 0.1 +
+- Handle command lines with arguments
