@@ -49,3 +49,5 @@ Your Shell should:
 - Handle errors.
 - You have to handle the “end of file” condition `(Ctrl+D)`
 You don’t have to:
+- use the `PATH`
+- implement built-ins
