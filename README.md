@@ -59,3 +59,6 @@ You don’t have to:
 ## Task 2
 Simple shell 0.1 +
 - Handle command lines with arguments
+## Task 3
+Simple shell 0.2 +
+- Handle the `PATH`
