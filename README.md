@@ -30,3 +30,5 @@
 - `lstat` (__lxstat) (man 2 lstat)
 - `fstat` (__fxstat) (man 2 fstat)
 - `strtok` (man 3 strtok)
+- `wait` (man 2 wait)
+- `waitpid` (man 2 waitpid)
