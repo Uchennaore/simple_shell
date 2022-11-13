@@ -3,3 +3,4 @@
 ### Collaborators
 * Uchenna Iwuchukwu  --Uchennaore
 * Obiakalusi Dionessa --Dionessaobi
+## List of allowed functions and system calls
