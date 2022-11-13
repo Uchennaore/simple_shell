@@ -12,3 +12,4 @@
 - `exit` (man 3 exit)
 - `_exit` (man 2 _exit)
 - `fflush` (man 3 fflush)
+- `fork` (man 2 fork)
