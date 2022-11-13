@@ -47,3 +47,5 @@ Your Shell should:
 - The command lines are made only of one word. No arguments will be passed to programs.
 - If an executable cannot be found, print an error message and display the prompt again.
 - Handle errors.
+- You have to handle the “end of file” condition `(Ctrl+D)`
+You don’t have to:
