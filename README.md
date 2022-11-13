@@ -15,3 +15,4 @@
 - `fork` (man 2 fork)
 - `free` (man 3 free)
 - `getcwd` (man 3 getcwd)
+- `getline` (man 3 getline)
