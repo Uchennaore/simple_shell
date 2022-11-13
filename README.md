@@ -62,3 +62,6 @@ Simple shell 0.1 +
 ## Task 3
 Simple shell 0.2 +
 - Handle the `PATH`
+- `fork` must not be called if the command doesn’t exist
+## Task 4
+Simple shell 0.3 +
