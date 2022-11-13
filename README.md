@@ -25,3 +25,4 @@
 - `perror` (man 3 perror)
 - `read` (man 2 read)
 - `readdir` (man 3 readdir)
+- `signal` (man 2 signal)
