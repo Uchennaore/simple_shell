@@ -8,3 +8,4 @@
 - `chdir` (man 2 chdir)
 - `close` (man 2 close)
 - `closedir` (man 3 closedir)
+- `execve` (man 2 execve)
