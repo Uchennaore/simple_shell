@@ -9,3 +9,4 @@
 - `close` (man 2 close)
 - `closedir` (man 3 closedir)
 - `execve` (man 2 execve)
+- `exit` (man 3 exit)
