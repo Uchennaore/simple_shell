@@ -65,3 +65,8 @@ Simple shell 0.2 +
 - `fork` must not be called if the command doesn’t exist
 ## Task 4
 Simple shell 0.3 +
+- Implement the `exit` built-in, that exits the shell
+- Usage: `exit`
+- You don’t have to handle any argument to the built-in `exit`
+## Task 5
+Simple shell 0.4 +
