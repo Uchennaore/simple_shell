@@ -17,3 +17,4 @@
 - `getcwd` (man 3 getcwd)
 - `getline` (man 3 getline)
 - `getpid` (man 2 getpid)
+- `isatty` (man 3 isatty)
