@@ -80,3 +80,27 @@ Simple shell 0.1 +
 You don't have to:
 - be able to move the cursor
 ## Task 7
+Simple shell 0.2 +
+- You are not allowed to use `strtok`
+## Task 8
+Simple shell 0.4 +
+- handle arguments for the built-in `exit`
+- Usage: `exit status`, where `status` is an integer used to exit the shell
+## Task 9
+Simple shell 1.0 +
+Implement the `setenv` and `unsetenv` builtin commands
+- `setenv`
+  - Initialize a new environment variable, or modify an existing one
+  - Command syntax: `setenv VARIABLE VALUE`
+  - Should print something on stderr on failure
+- `unsetenv`
+  - Remove an environment variable
+  - Command syntax: `unsetenv VARIABLE`
+  - Should print something on stderr on failure
+## Task 10
+Simple shell 1.0 +
+Implement the builtin command `cd`:
+- Changes the current directory of the process.
+- Command syntax: `cd [DIRECTORY]`
+- If no argument is given to `cd` the command must be interpreted like `cd $HOME`
+- You have to handle the command `cd -`
