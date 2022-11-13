@@ -13,3 +13,5 @@
 - `_exit` (man 2 _exit)
 - `fflush` (man 3 fflush)
 - `fork` (man 2 fork)
+- `free` (man 3 free)
+- `getcwd` (man 3 getcwd)
