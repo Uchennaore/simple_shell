@@ -124,4 +124,4 @@ Simple shell 1.0 +
 Simple shell 1.0 +
 - Handle variables replacement
 - Handle the `$?`
-- Handle the
+- Handle the `$$`
