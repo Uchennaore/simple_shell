@@ -109,4 +109,4 @@ Implement the builtin command `cd`:
 `man chdir`, `man getcwd`
 ## Task 11
 Simple shell 1.0 +
-- Handle the commands
+- Handle the commands separator `;`
