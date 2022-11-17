@@ -110,3 +110,4 @@ Implement the builtin command `cd`:
 ## Task 11
 Simple shell 1.0 +
 - Handle the commands separator `;`
+## Task 12
