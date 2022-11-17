@@ -100,4 +100,4 @@ Implement the `setenv` and `unsetenv` builtin commands
 ## Task 10
 Simple shell 1.0 +
 Implement the builtin command `cd`:
-- Changes the current directory
+- Changes the current directory of the process.
