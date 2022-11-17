@@ -132,3 +132,4 @@ Simple shell 1.0 +
 Simple shell 1.0 +
 - Usage: `simple_shell [filename]`
 - Your shell can take a file as a command line argument
+- The file
