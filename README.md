@@ -112,4 +112,4 @@ Simple shell 1.0 +
 - Handle the commands separator `;`
 ## Task 12
 Simple shell 1.0 +
-- Handle the `&&`
+- Handle the `&&` and `||` shell
