@@ -116,3 +116,4 @@ Simple shell 1.0 +
 ## Task 13
 Simple shell 1.0 +
 - Implement the `alias` builtin command
+- Usage: `alias
