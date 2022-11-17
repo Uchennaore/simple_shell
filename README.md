@@ -103,4 +103,35 @@ Implement the builtin command `cd`:
 - Changes the current directory of the process.
 - Command syntax: `cd [DIRECTORY]`
 - If no argument is given to `cd` the command must be interpreted like `cd $HOME`
-- You have to handle
+- You have to handle the command `cd -`
+- You have to update the environment variable PWD when you change directory
+
+`man chdir`, `man getcwd`
+## Task 11
+Simple shell 1.0 +
+- Handle the commands separator `;`
+## Task 12
+Simple shell 1.0 +
+- Handle the `&&` and `||` shell logical operators
+## Task 13
+Simple shell 1.0 +
+- Implement the `alias` builtin command
+- Usage: `alias [name[='value'] ...]`
+  - `alias`: Prints a list of all aliases, one per line, in the form `name='value'`
+  - `alias name [name2 ...]`: Prints the aliases `name`, `name2`, etc 1 per line, in the form `name='value'`
+  - `alias name='value' [...]`: Defines an alias for each `name` whose `value` is given. If `name` is already an alias, replaces its value with `value`
+## Task 14
+Simple shell 1.0 +
+- Handle variables replacement
+- Handle the `$?`
+- Handle the `$$` variable
+## Task 15
+Simple shell 1.0 +
+- Handle comments (`#`)
+## Task 16
+Simple shell 1.0 +
+- Usage: `simple_shell [filename]`
+- Your shell can take a file as a command line argument
+- The file contains all the commands that your shell should run before exiting
+- The file should contain one command per line
+- In this mode, the shell should not print a prompt and should not read from `stdin`
