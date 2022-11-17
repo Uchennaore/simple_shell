@@ -123,4 +123,4 @@ Simple shell 1.0 +
 ## Task 14
 Simple shell 1.0 +
 - Handle variables replacement
-- Handle
+- Handle the
