@@ -97,3 +97,4 @@ Implement the `setenv` and `unsetenv` builtin commands
   - Remove an environment variable
   - Command syntax: `unsetenv VARIABLE`
   - Should print something on stderr on failure
+## Task 10
