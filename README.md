@@ -104,3 +104,4 @@ Implement the builtin command `cd`:
 - Command syntax: `cd [DIRECTORY]`
 - If no argument is given to `cd` the command must be interpreted like `cd $HOME`
 - You have to handle the command `cd -`
+- You have to update the environment
