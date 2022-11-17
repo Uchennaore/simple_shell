@@ -125,3 +125,4 @@ Simple shell 1.0 +
 - Handle variables replacement
 - Handle the `$?`
 - Handle the `$$` variable
+## Task 15
