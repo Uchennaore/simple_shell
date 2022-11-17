@@ -118,4 +118,4 @@ Simple shell 1.0 +
 - Implement the `alias` builtin command
 - Usage: `alias [name[='value'] ...]`
   - `alias`: Prints a list of all aliases, one per line, in the form `name='value'`
-  - `alias name [name2 ...]`: Prints the aliases `name`, `name2`, etc 1 per line
+  - `alias name [name2 ...]`: Prints the aliases `name`, `name2`, etc 1 per line, in the form `name='value'`
